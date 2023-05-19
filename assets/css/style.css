@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.img-bg img{
+    max-height: 30rem;
+}
+
+.img-card{
+    max-width: 20rem;
+    margin: 0 auto;
+}
+
+#customModal{
+    padding: .8rem!important;
+}
+
+#btn-sobre{
+    width: .75rem;
+}
+
+.img-card .card-btn{
+    display: none;
+}
+
+.img-card:hover .card-btn{
+    display: flex;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#btn-atendimento{
+    width: 13rem;
+    margin: 0 auto;
+    background: #2A3342;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
